@@ -1,0 +1,7 @@
+base   authengelsystem
+author Julian Jacobi
+email  mail@julianjacobi.net
+date   2016-10-10
+name   Engelsystem authentication
+desc   This plugin authenticates a DokuWiki instance with the Database of an Engelsystem
+url    https://github.com/JulianJacobi/dokuwiki_auth_engelsystem
